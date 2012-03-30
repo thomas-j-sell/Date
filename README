@@ -1,0 +1,6 @@
+Date.cpp
+	command line tool to receive information about a given date
+
+compiled and ran via command line
+	g++ -o date Date.cpp
+	./date dd mm yyyy
